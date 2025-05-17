@@ -1,4 +1,5 @@
-README - AWS Simulator (SAA-C03)
+Obs.: caso o app esteja no modo "sleeping" (dormindo) ao entrar, basta clicar no botão que estará disponível e aguardar, para ativar o mesmo. 
+![print](https://github.com/user-attachments/assets/22fde294-0bbc-45b9-9d03-9dc1aa32d629)
 
 # AWS Simulator (SAA-C03)
 
